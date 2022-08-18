@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap');
+
+
+body {
+                    background-color: hsl(212, 45%, 89%);
+                    font-size: 15px;
+                    padding: 0;
+                    margin: 0;
+}
+
+
+.paragraph1 {
+                    font-family: Outfit;
+}
+
+.paragraph2 {
+                    font-family: Outfit;
+}
